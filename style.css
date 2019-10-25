@@ -1,0 +1,32 @@
+h1,h2{
+	margin-bottom: 0px;
+	text-align: center;
+    }
+    h1{
+        
+        font-size:36px;
+
+    }
+    h2{
+        font-size:30px;
+    }
+    #out{
+        text-align: center;
+        font-size:30px;
+    }
+    .block{
+        margin-bottom: 0px;
+	font-size:36px;
+    text-align: center;
+    width: 200px; 
+    background: rgb(179, 39, 39);
+    padding: 5px;
+    padding-right: 20px; 
+    border: solid 3px green; 
+    float: none;
+       }
+       border{
+        border: 4px double black; /* Параметры границы */
+        background: #fc3; /* Цвет фона */
+        padding: 10px; /* Поля вокруг текста */
+       }
